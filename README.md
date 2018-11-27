@@ -1,2 +1,2 @@
-# Machine_Runing
+# Machine_Learning
 Class
